@@ -35,6 +35,7 @@ Question 5: Plot Tesla Stock Graph
 import matplotlib.pyplot as plt
 
 
+
 tesla_data = tesla_data[:datetime.date(2021, 6, 30)]
 tesla_revenue = tesla_revenue[:datetime.date(2021, 6, 30)]
 
